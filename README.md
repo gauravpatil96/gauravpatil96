@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning, running, swiming
 - 🌱 I’m currently learning SQL, Python, PowerBi
 - 💞️ I’m looking to collaborate on ...
-- 📫 gdpatil6756@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can connect me on gdpatil6756@gmail.com
+- 😄 Pronouns: GD
+- ⚡ Fun fact: 
 
 <!---
 gauravpatil96/gauravpatil96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
