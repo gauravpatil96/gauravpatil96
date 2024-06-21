@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can connect me on gdpatil6756@gmail.com
 - 😄 Pronouns: GD
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Always smiling
 
 <!---
 gauravpatil96/gauravpatil96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
